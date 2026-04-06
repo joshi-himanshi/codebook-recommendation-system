@@ -1,6 +1,6 @@
 # CodeBook Recommendation System
 
-This project is based on the Data Science course by CodeWithHarry.
+This project is part of my data science learning, where I implemented a recommendation system using Python and JSON.
 
 It implements a basic recommendation system using Python and JSON data.
 
@@ -15,8 +15,7 @@ It implements a basic recommendation system using Python and JSON data.
 - Jupyter Notebook
 
 ## Learning Purpose
-This project is part of my learning journey in Python and Data Science.  
-The concepts were learned from CodeWithHarry and implemented by me.
+The concepts were learned and implemented as part of my data science learning journey.
 
 ## Project Structure
 - project.ipynb → main implementation
